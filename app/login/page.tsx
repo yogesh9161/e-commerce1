@@ -1,5 +1,5 @@
 // import About from "@/app/components/page content/about";
-import Login from "../components/login";
+import Login from "../../components/login";
 
 export default function LoginPage() {
   return (

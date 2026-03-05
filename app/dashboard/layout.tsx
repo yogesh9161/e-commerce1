@@ -15,7 +15,7 @@ export default function DashboardLayout({
   return (
     <div className="flex min-h-screen bg-gray-100 ">
 
-      {/* SIDEBAR */}
+{/* ...............................side navbar contenttttuuuuuu...................................... */}
       <aside className="w-64 bg-gray-900 text-white p-6 space-y-8 ">
         <h1 className="text-2xl font-bold text-center">Admin Panel</h1>
 

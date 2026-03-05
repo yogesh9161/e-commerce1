@@ -67,7 +67,10 @@ export default function CartForm() {
          <textarea name="description" placeholder="Description" className="border p-2 w-full rounded" required />         <input name="price" type="number" placeholder="Price" className="border p-2 w-full rounded" required />
         <input name="quantity" type="number"
          placeholder="Quantity" className="border p-2 w-full rounded" required />
-        
+
+          {/* <input name="slug" type="number"
+         placeholder="slug" className="border p-2 w-full rounded" required />
+         */}
         <button className="w-full bg-blue-600 text-white py-2 rounded-lg">
           Add Product
         </button>

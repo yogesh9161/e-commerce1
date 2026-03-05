@@ -1,4 +1,4 @@
-import Cartform from "@/app/components/cartform";
+import Cartform from "@/components/cartform";
 
 export default function BlogPage() {
   return (

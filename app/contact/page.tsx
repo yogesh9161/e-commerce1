@@ -1,5 +1,5 @@
-import ContactForm from "@/app/components/contacts/contactform";
-import Map from "@/app/components/contacts/map";
+import ContactForm from "@/components/contacts/contactform";
+import Map from "@/components/contacts/map";
 
 export default function ContactPage(){
 

@@ -1,4 +1,4 @@
-import Favorites from "@/app/components/favorites";
+import Favorites from "@/components/favorites";
 
 export default function BlogPage() {
   return (

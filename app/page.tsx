@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Navbar from "./components/landing page/navbar";                                                         
-import Hero from "./components/landing page/hero";      
-import  Shopnow  from "./components/landing page/shopnow";
+import Navbar from "../components/landing page/navbar";                                                         
+import Hero from "../components/landing page/hero";      
+import  Shopnow  from "../components/landing page/shopnow";
 
-import  Category from "./components/landing page/category";
-import Fashion from "./components/landing page/fashion";
+import  Category from "../components/landing page/category";
+import Fashion from "../components/landing page/fashion";
 // import  Footer  from "./components/landing page/footer";
 // import About from "./components/page content/about";
 // import Shopcart from "./components/shop/shopcart";
